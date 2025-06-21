@@ -162,6 +162,6 @@ This PDF summarizer showcases the power of Azure Durable Functions for serverles
 ---
 ## Demo Video
 
-[Watch the 5-minute demo on YouTube](https://www.youtube.com/watch?v=u6ZSNnYqSdc)
+[Watch the 5-minute demo on YouTube](https://www.youtube.com/watch?v=vamE2KtXcfM)
 
 ---

@@ -12,6 +12,11 @@ This lab implements an **Intelligent PDF Summarizer** using **Azure Durable Func
 
 ## ⚙️ Workflow Architecture
 
+### 🧭 Architecture Diagram
+
+![Architecture](working_IPS.png)
+
+
 1. **Blob Trigger:**  
    Triggers the function when a new PDF is uploaded to the `input` container.
 
